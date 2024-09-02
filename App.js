@@ -13,8 +13,8 @@ import TelaReact from "./componentes/TelaReact";
 import TelaNode from "./componentes/TelaNode"
 
 //const MenuNav = createBottomTabNavigator();
-// const MenuNav = createStackNavigator(); 
-const MenuNav = createDrawerNavigator();
+ const MenuNav = createStackNavigator(); 
+//const MenuNav = createDrawerNavigator();
 
 export default function App() {
   return (
